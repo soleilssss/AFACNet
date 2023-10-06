@@ -24,15 +24,7 @@ Then python train_test.py to train your dataset.
 
 If you find the code useful for your research, please cite our paper.
 
-@ARTICLE{10229145,
-  author={Wang, Kaini and Zhuang, Shuaishuai and Miao, Juzheng and Chen, Yang and Hua, Jie and Zhou, Guang-Quan and He, Xiaopu and Li, Shuo},
-  journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes}, 
-  year={2023},
-  volume={27},
-  number={10},
-  pages={4816-4827},
-  doi={10.1109/JBHI.2023.3300288}}
+K. Wang et al., "Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes," in IEEE Journal of Biomedical and Health Informatics, vol. 27, no. 10, pp. 4816-4827, Oct. 2023, doi: 10.1109/JBHI.2023.3300288.
 
 
 
