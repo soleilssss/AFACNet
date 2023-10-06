@@ -1,9 +1,9 @@
 # AFACNet: Adaptive Frequency Learning Network With Anti-aliasing Complex Convolutions For Colon Diseases Subtypes (JBHI)
 
-# Requirements
+## Requirements
 Our code is based on python and pytorch1.8.
 
-# Training the Model
+## Training the Model
 python train_test.py
 
 train_dataset-root: Folder to which you downloaded and extracted the training data
@@ -20,7 +20,7 @@ First go into the train_test and adapt all the paths to match your file system a
 
 Then python train_test.py to train your dataset.
 
-# Citation
+## Citation
 
 If you find the code useful for your research, please cite our paper.
 
